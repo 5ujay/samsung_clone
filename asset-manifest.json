@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/samsung_clone/static/css/main.ac67acfb.css",
+    "main.js": "/samsung_clone/static/js/main.1059260a.js",
+    "static/media/samsungIntro.mp4": "/samsung_clone/static/media/samsungIntro.d856708e5bc874b4c9eb.mp4",
+    "index.html": "/samsung_clone/index.html",
+    "main.ac67acfb.css.map": "/samsung_clone/static/css/main.ac67acfb.css.map",
+    "main.1059260a.js.map": "/samsung_clone/static/js/main.1059260a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac67acfb.css",
+    "static/js/main.1059260a.js"
+  ]
+}
